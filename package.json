@@ -1,0 +1,32 @@
+{
+  "name": "scoremyessay",
+  "version": "1.0.0",
+  "description": "The project helps students hire the teachers score their essays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canhngo225/SMEssay.git"
+  },
+  "keywords": [
+    "SME"
+  ],
+  "author": "Canh Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canhngo225/SMEssay/issues"
+  },
+  "homepage": "https://github.com/canhngo225/SMEssay#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}
